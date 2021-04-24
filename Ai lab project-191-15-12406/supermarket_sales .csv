@@ -1,0 +1,1001 @@
+Branch,Customer_type,Product_line,Rating,cogs,gross_margin_percentage,gross_income
+A,Member,Health and beauty,9.1,522.83,4.761904762,26.1415
+C,Normal,Electronic accessories,9.6,76.4,4.761904762,3.82
+A,Normal,Home and lifestyle,7.4,324.31,4.761904762,16.2155
+A,Member,Health and beauty,8.4,465.76,4.761904762,23.288
+A,Normal,Sports and travel,5.3,604.17,4.761904762,30.2085
+C,Normal,Electronic accessories,4.1,597.73,4.761904762,29.8865
+A,Member,Electronic accessories,5.8,413.04,4.761904762,20.652
+C,Normal,Home and lifestyle,8,735.6,4.761904762,36.78
+A,Member,Health and beauty,7.2,72.52,4.761904762,3.626
+B,Member,Food and beverages,5.9,164.52,4.761904762,8.226
+B,Member,Fashion accessories,4.5,57.92,4.761904762,2.896
+B,Member,Electronic accessories,6.8,102.04,4.761904762,5.102
+A,Normal,Electronic accessories,7.1,234.75,4.761904762,11.7375
+A,Normal,Food and beverages,8.2,431.9,4.761904762,21.595
+A,Normal,Health and beauty,5.7,713.8,4.761904762,35.69
+B,Member,Sports and travel,4.5,562.32,4.761904762,28.116
+A,Member,Health and beauty,4.6,482.51,4.761904762,24.1255
+A,Normal,Sports and travel,6.9,435.66,4.761904762,21.783
+A,Normal,Food and beverages,8.6,164.01,4.761904762,8.2005
+B,Normal,Home and lifestyle,4.4,80.6,4.761904762,4.03
+C,Member,Electronic accessories,4.8,430.2,4.761904762,21.51
+B,Normal,Health and beauty,5.1,263.94,4.761904762,13.197
+B,Normal,Home and lifestyle,4.4,66.4,4.761904762,3.32
+A,Normal,Electronic accessories,9.9,172.8,4.761904762,8.64
+A,Member,Sports and travel,6,265.89,4.761904762,13.2945
+A,Member,Home and lifestyle,8.5,420.72,4.761904762,21.036
+B,Normal,Fashion accessories,6.7,33.52,4.761904762,1.676
+A,Normal,Fashion accessories,7.7,175.34,4.761904762,8.767
+B,Normal,Food and beverages,9.6,441.8,4.761904762,22.09
+A,Normal,Health and beauty,7.4,224.01,4.761904762,11.2005
+B,Normal,Fashion accessories,4.8,470.65,4.761904762,23.5325
+B,Member,Sports and travel,4.5,702.63,4.761904762,35.1315
+B,Normal,Sports and travel,5.1,670.24,4.761904762,33.512
+A,Normal,Health and beauty,5.1,193.16,4.761904762,9.658
+C,Member,Food and beverages,7.5,397.68,4.761904762,19.884
+C,Member,Sports and travel,6.8,68.12,4.761904762,3.406
+A,Member,Sports and travel,7,313.1,4.761904762,15.655
+A,Normal,Electronic accessories,4.7,547.92,4.761904762,27.396
+C,Normal,Health and beauty,7.6,439.36,4.761904762,21.968
+B,Member,Home and lifestyle,7.7,240.96,4.761904762,12.048
+B,Member,Home and lifestyle,7.9,86.72,4.761904762,4.336
+C,Member,Home and lifestyle,6.3,112.22,4.761904762,5.611
+B,Member,Sports and travel,5.6,414.72,4.761904762,20.736
+C,Member,Food and beverages,7.6,789.6,4.761904762,39.48
+C,Member,Health and beauty,7.2,30.74,4.761904762,1.537
+B,Member,Electronic accessories,9.5,375.84,4.761904762,18.792
+B,Member,Health and beauty,8.4,510.21,4.761904762,25.5105
+B,Member,Food and beverages,4.1,180.09,4.761904762,9.0045
+B,Member,Electronic accessories,8.1,113.58,4.761904762,5.679
+C,Member,Fashion accessories,7.9,826.3,4.761904762,41.315
+C,Member,Food and beverages,9.5,639.8,4.761904762,31.99
+A,Member,Food and beverages,8.5,222.95,4.761904762,11.1475
+B,Member,Fashion accessories,6.5,71.48,4.761904762,3.574
+C,Member,Fashion accessories,6.1,15.43,4.761904762,0.7715
+B,Normal,Home and lifestyle,6.5,32.32,4.761904762,1.616
+C,Normal,Electronic accessories,8.2,687.84,4.761904762,34.392
+A,Member,Home and lifestyle,5.8,88.68,4.761904762,4.434
+A,Normal,Health and beauty,6.6,716.8,4.761904762,35.84
+A,Member,Home and lifestyle,5.4,723.5,4.761904762,36.175
+C,Normal,Electronic accessories,9.3,183.66,4.761904762,9.183
+C,Member,Sports and travel,10,74.22,4.761904762,3.711
+C,Normal,Home and lifestyle,7,334.38,4.761904762,16.719
+B,Member,Sports and travel,10,495.63,4.761904762,24.7815
+A,Member,Sports and travel,8.6,158.1,4.761904762,7.905
+B,Member,Health and beauty,7.6,302.96,4.761904762,15.148
+A,Member,Health and beauty,5.8,158.7,4.761904762,7.935
+C,Normal,Health and beauty,6.7,66.94,4.761904762,3.347
+B,Member,Fashion accessories,9.9,585.66,4.761904762,29.283
+A,Normal,Sports and travel,6.4,787.7,4.761904762,39.385
+A,Member,Health and beauty,4.3,18.33,4.761904762,0.9165
+C,Normal,Food and beverages,9.6,894.8,4.761904762,44.74
+C,Normal,Fashion accessories,5.9,621.2,4.761904762,31.06
+B,Member,Food and beverages,4,145.56,4.761904762,7.278
+C,Normal,Electronic accessories,8.7,455.46,4.761904762,22.773
+A,Normal,Home and lifestyle,9.4,672.03,4.761904762,33.6015
+C,Normal,Electronic accessories,5.4,416.5,4.761904762,20.825
+C,Member,Fashion accessories,8.6,441.36,4.761904762,22.068
+A,Member,Fashion accessories,5.7,180.09,4.761904762,9.0045
+C,Member,Food and beverages,6.6,783.1,4.761904762,39.155
+C,Normal,Health and beauty,6,101.9,4.761904762,5.095
+C,Normal,Health and beauty,5.5,595.14,4.761904762,29.757
+B,Normal,Food and beverages,6.4,290.04,4.761904762,14.502
+C,Normal,Food and beverages,6.6,154,4.761904762,7.7
+C,Member,Food and beverages,8.3,321.44,4.761904762,16.072
+C,Member,Sports and travel,6.6,244.55,4.761904762,12.2275
+C,Normal,Sports and travel,4,581.42,4.761904762,29.071
+C,Normal,Fashion accessories,9.9,382.6,4.761904762,19.13
+A,Member,Food and beverages,7.3,345.66,4.761904762,17.283
+A,Normal,Sports and travel,5.7,42.47,4.761904762,2.1235
+B,Normal,Health and beauty,6.1,461.94,4.761904762,23.097
+C,Member,Home and lifestyle,7.1,189.52,4.761904762,9.476
+C,Normal,Sports and travel,8.2,448.6,4.761904762,22.43
+A,Member,Sports and travel,5.1,153.86,4.761904762,7.693
+B,Member,Health and beauty,8.6,579.24,4.761904762,28.962
+C,Normal,Health and beauty,6.6,89.75,4.761904762,4.4875
+A,Normal,Electronic accessories,7.2,97.16,4.761904762,4.858
+B,Normal,Health and beauty,5.1,878.7,4.761904762,43.935
+C,Normal,Electronic accessories,4.1,74.7,4.761904762,3.735
+A,Normal,Food and beverages,9.3,158.25,4.761904762,7.9125
+B,Normal,Home and lifestyle,7.4,496.2,4.761904762,24.81
+C,Member,Fashion accessories,4.1,48.71,4.761904762,2.4355
+C,Normal,Fashion accessories,7.2,706.95,4.761904762,35.3475
+C,Normal,Electronic accessories,4.9,207.63,4.761904762,10.3815
+A,Normal,Food and beverages,9.9,349.56,4.761904762,17.478
+B,Normal,Health and beauty,8,212.45,4.761904762,10.6225
+A,Member,Electronic accessories,7.3,886.7,4.761904762,44.335
+C,Normal,Fashion accessories,7.9,164.28,4.761904762,8.214
+A,Normal,Sports and travel,7.4,372.78,4.761904762,18.639
+C,Normal,Food and beverages,4.2,305.82,4.761904762,15.291
+C,Member,Electronic accessories,9.2,819.7,4.761904762,40.985
+B,Member,Sports and travel,4.6,32.98,4.761904762,1.649
+C,Member,Health and beauty,7.8,294.63,4.761904762,14.7315
+B,Normal,Fashion accessories,8.4,509.88,4.761904762,25.494
+A,Member,Home and lifestyle,4.3,522.63,4.761904762,26.1315
+C,Member,Home and lifestyle,9.5,727.11,4.761904762,36.3555
+C,Normal,Fashion accessories,7.1,81.06,4.761904762,4.053
+B,Member,Fashion accessories,5.3,109.7,4.761904762,5.485
+B,Member,Fashion accessories,5.2,51.36,4.761904762,2.568
+A,Normal,Food and beverages,6,109.6,4.761904762,5.48
+B,Normal,Home and lifestyle,4.1,106.88,4.761904762,5.344
+A,Normal,Electronic accessories,5.2,796.48,4.761904762,39.824
+C,Member,Sports and travel,6.5,399.84,4.761904762,19.992
+B,Member,Sports and travel,4.2,899.64,4.761904762,44.982
+C,Member,Home and lifestyle,4.6,511.28,4.761904762,25.564
+B,Member,Fashion accessories,7.3,451.76,4.761904762,22.588
+A,Normal,Home and lifestyle,4.5,655.83,4.761904762,32.7915
+A,Normal,Sports and travel,9,161.25,4.761904762,8.0625
+C,Normal,Fashion accessories,5.9,285.57,4.761904762,14.2785
+C,Member,Food and beverages,8.5,548.32,4.761904762,27.416
+B,Normal,Sports and travel,7.2,812.52,4.761904762,40.626
+B,Normal,Fashion accessories,7.5,277.34,4.761904762,13.867
+A,Member,Sports and travel,8.3,552.78,4.761904762,27.639
+B,Normal,Sports and travel,7.4,139.36,4.761904762,6.968
+B,Member,Electronic accessories,8.8,524.7,4.761904762,26.235
+C,Normal,Health and beauty,5.3,487.8,4.761904762,24.39
+C,Normal,Fashion accessories,6.2,270.66,4.761904762,13.533
+A,Normal,Electronic accessories,8.8,131.55,4.761904762,6.5775
+A,Member,Home and lifestyle,9.8,206.52,4.761904762,10.326
+B,Normal,Sports and travel,8.2,519.1,4.761904762,25.955
+A,Normal,Sports and travel,9.2,580,4.761904762,29
+C,Member,Sports and travel,5.4,898,4.761904762,44.9
+C,Member,Health and beauty,8.1,905,4.761904762,45.25
+C,Member,Health and beauty,9.1,686,4.761904762,34.3
+C,Member,Food and beverages,8.4,30.41,4.761904762,1.5205
+A,Normal,Home and lifestyle,8,467.7,4.761904762,23.385
+C,Normal,Health and beauty,9.5,277.56,4.761904762,13.878
+A,Member,Fashion accessories,9.2,301.4,4.761904762,15.07
+C,Normal,Health and beauty,5.6,264.56,4.761904762,13.228
+B,Member,Home and lifestyle,6.2,574.88,4.761904762,28.744
+A,Normal,Health and beauty,4.9,259.68,4.761904762,12.984
+B,Member,Fashion accessories,4.8,366.16,4.761904762,18.308
+C,Member,Sports and travel,7.3,241.92,4.761904762,12.096
+A,Normal,Fashion accessories,7.4,749.16,4.761904762,37.458
+C,Normal,Food and beverages,9.9,98.88,4.761904762,4.944
+C,Normal,Sports and travel,9.3,647.76,4.761904762,32.388
+A,Member,Food and beverages,9,461.45,4.761904762,23.0725
+B,Member,Electronic accessories,6.1,72.17,4.761904762,3.6085
+B,Normal,Home and lifestyle,9.7,251.4,4.761904762,12.57
+B,Member,Health and beauty,6,874.98,4.761904762,43.749
+B,Normal,Sports and travel,10,560.34,4.761904762,28.017
+C,Normal,Food and beverages,8.3,345.44,4.761904762,17.272
+A,Normal,Sports and travel,6,63.69,4.761904762,3.1845
+A,Normal,Food and beverages,7,320.53,4.761904762,16.0265
+C,Normal,Sports and travel,6.5,152.8,4.761904762,7.64
+B,Normal,Food and beverages,5.9,399,4.761904762,19.95
+B,Member,Health and beauty,5.6,340.56,4.761904762,17.028
+C,Normal,Home and lifestyle,4.8,955.8,4.761904762,47.79
+A,Normal,Fashion accessories,8.7,989.8,4.761904762,49.49
+A,Normal,Food and beverages,6.5,307.68,4.761904762,15.384
+A,Member,Sports and travel,8.5,486.64,4.761904762,24.332
+A,Normal,Health and beauty,5.5,350.05,4.761904762,17.5025
+B,Member,Food and beverages,9.4,400.25,4.761904762,20.0125
+C,Normal,Electronic accessories,6.3,166.8,4.761904762,8.34
+B,Member,Electronic accessories,9.8,317.34,4.761904762,15.867
+B,Normal,Food and beverages,8.7,158.32,4.761904762,7.916
+A,Member,Home and lifestyle,8.8,304.56,4.761904762,15.228
+A,Member,Food and beverages,9.6,177.36,4.761904762,8.868
+C,Normal,Fashion accessories,4.8,157.57,4.761904762,7.8785
+A,Normal,Food and beverages,4.4,443.28,4.761904762,22.164
+C,Member,Health and beauty,9.9,260.4,4.761904762,13.02
+C,Normal,Fashion accessories,5.7,449.82,4.761904762,22.491
+C,Member,Food and beverages,7.7,307.76,4.761904762,15.388
+A,Member,Sports and travel,8,155,4.761904762,7.75
+C,Normal,Health and beauty,5.7,274.48,4.761904762,13.724
+A,Normal,Sports and travel,6.7,86.38,4.761904762,4.319
+B,Member,Food and beverages,8,54.24,4.761904762,2.712
+B,Member,Home and lifestyle,7.5,755.92,4.761904762,37.796
+B,Member,Home and lifestyle,7,185.88,4.761904762,9.294
+A,Normal,Home and lifestyle,9.9,74.07,4.761904762,3.7035
+C,Normal,Home and lifestyle,5.9,279.24,4.761904762,13.962
+B,Normal,Home and lifestyle,7.2,231.12,4.761904762,11.556
+B,Normal,Fashion accessories,4.6,147.04,4.761904762,7.352
+C,Normal,Food and beverages,9.2,790.2,4.761904762,39.51
+B,Normal,Home and lifestyle,5.7,102.2,4.761904762,5.11
+A,Normal,Electronic accessories,9.9,163.55,4.761904762,8.1775
+C,Member,Fashion accessories,5,74.29,4.761904762,3.7145
+C,Member,Health and beauty,4.9,87.4,4.761904762,4.37
+A,Normal,Home and lifestyle,6.1,25.29,4.761904762,1.2645
+C,Normal,Health and beauty,8.2,166,4.761904762,8.3
+C,Member,Food and beverages,5.5,356.95,4.761904762,17.8475
+C,Member,Sports and travel,6.8,114.9,4.761904762,5.745
+B,Member,Electronic accessories,6.6,229.96,4.761904762,11.498
+C,Normal,Electronic accessories,9.8,429.87,4.761904762,21.4935
+B,Member,Health and beauty,8.7,259,4.761904762,12.95
+B,Member,Home and lifestyle,5.4,88.85,4.761904762,4.4425
+A,Normal,Health and beauty,7.9,207.27,4.761904762,10.3635
+C,Member,Electronic accessories,9.7,599.85,4.761904762,29.9925
+C,Member,Home and lifestyle,7.8,285.3,4.761904762,14.265
+B,Normal,Fashion accessories,5.1,91.11,4.761904762,4.5555
+B,Normal,Electronic accessories,6.5,897.57,4.761904762,44.8785
+A,Normal,Electronic accessories,5.9,236.07,4.761904762,11.8035
+C,Normal,Food and beverages,8.8,839.34,4.761904762,41.967
+B,Normal,Home and lifestyle,4.9,461.8,4.761904762,23.09
+B,Normal,Sports and travel,4.4,139.26,4.761904762,6.963
+B,Member,Sports and travel,6.5,207.27,4.761904762,10.3635
+A,Normal,Home and lifestyle,8.3,18.28,4.761904762,0.914
+B,Normal,Sports and travel,8.5,123.85,4.761904762,6.1925
+A,Member,Electronic accessories,5.5,283.92,4.761904762,14.196
+B,Normal,Fashion accessories,8.7,758.96,4.761904762,37.948
+B,Normal,Food and beverages,7.9,172.02,4.761904762,8.601
+B,Normal,Electronic accessories,6.1,272.1,4.761904762,13.605
+B,Normal,Food and beverages,5.4,434.56,4.761904762,21.728
+C,Normal,Electronic accessories,9.4,59.05,4.761904762,2.9525
+C,Member,Fashion accessories,8.2,12.54,4.761904762,0.627
+A,Normal,Food and beverages,6.2,86.5,4.761904762,4.325
+C,Member,Sports and travel,9.7,174.32,4.761904762,8.716
+B,Member,Health and beauty,4,624.33,4.761904762,31.2165
+C,Member,Electronic accessories,9.7,148.24,4.761904762,7.412
+B,Member,Electronic accessories,5.3,544.2,4.761904762,27.21
+A,Normal,Home and lifestyle,7.4,507.36,4.761904762,25.368
+B,Normal,Fashion accessories,6.5,162.74,4.761904762,8.137
+B,Member,Electronic accessories,8.7,31.77,4.761904762,1.5885
+B,Normal,Health and beauty,8,756.81,4.761904762,37.8405
+B,Member,Fashion accessories,6.7,295.28,4.761904762,14.764
+A,Member,Health and beauty,6.5,519.4,4.761904762,25.97
+A,Normal,Sports and travel,4.1,186.28,4.761904762,9.314
+C,Normal,Health and beauty,4.9,87.05,4.761904762,4.3525
+C,Member,Fashion accessories,8.6,221.1,4.761904762,11.055
+B,Member,Electronic accessories,4.3,66.1,4.761904762,3.305
+A,Normal,Fashion accessories,4.9,89.69,4.761904762,4.4845
+A,Normal,Food and beverages,5.6,224.46,4.761904762,11.223
+A,Normal,Health and beauty,5.8,119.54,4.761904762,5.977
+C,Member,Fashion accessories,6,186.4,4.761904762,9.32
+A,Member,Home and lifestyle,4.2,250.6,4.761904762,12.53
+B,Normal,Home and lifestyle,8.3,750.96,4.761904762,37.548
+A,Member,Home and lifestyle,5.7,380.72,4.761904762,19.036
+B,Member,Electronic accessories,4.8,244.2,4.761904762,12.21
+A,Member,Fashion accessories,6.8,89.7,4.761904762,4.485
+A,Member,Electronic accessories,8.8,310.88,4.761904762,15.544
+B,Normal,Food and beverages,4.2,511.42,4.761904762,25.571
+B,Member,Food and beverages,6.4,418.95,4.761904762,20.9475
+C,Member,Fashion accessories,8.4,351.9,4.761904762,17.595
+C,Normal,Sports and travel,7.2,28.78,4.761904762,1.439
+A,Normal,Home and lifestyle,5.2,95,4.761904762,4.75
+A,Member,Home and lifestyle,8.9,471.2,4.761904762,23.56
+B,Member,Fashion accessories,9,130.48,4.761904762,6.524
+A,Member,Electronic accessories,9.7,66.35,4.761904762,3.3175
+A,Member,Home and lifestyle,8.7,155.46,4.761904762,7.773
+A,Member,Electronic accessories,6.5,129,4.761904762,6.45
+C,Member,Electronic accessories,6.9,263.76,4.761904762,13.188
+A,Normal,Electronic accessories,6.2,675.54,4.761904762,33.777
+C,Normal,Fashion accessories,5.6,65.8,4.761904762,3.29
+B,Member,Fashion accessories,5.7,153.2,4.761904762,7.66
+A,Member,Sports and travel,4.2,222.4,4.761904762,11.12
+B,Normal,Sports and travel,7.9,54.45,4.761904762,2.7225
+A,Member,Sports and travel,8.7,688.8,4.761904762,34.44
+C,Normal,Home and lifestyle,6.9,141.88,4.761904762,7.094
+B,Member,Food and beverages,9.5,746,4.761904762,37.3
+A,Member,Home and lifestyle,4.4,282.96,4.761904762,14.148
+A,Member,Home and lifestyle,7,355.4,4.761904762,17.77
+B,Normal,Sports and travel,6.3,337.15,4.761904762,16.8575
+C,Member,Health and beauty,9.7,42.24,4.761904762,2.112
+A,Member,Home and lifestyle,8.8,193.86,4.761904762,9.693
+A,Normal,Home and lifestyle,5.1,24.06,4.761904762,1.203
+B,Normal,Health and beauty,7.9,598.26,4.761904762,29.913
+B,Normal,Fashion accessories,6.2,335.79,4.761904762,16.7895
+C,Member,Home and lifestyle,7.1,218.2,4.761904762,10.91
+C,Normal,Fashion accessories,6.4,381.68,4.761904762,19.084
+C,Member,Fashion accessories,5.7,709.9,4.761904762,35.495
+A,Member,Sports and travel,9.6,440.2,4.761904762,22.01
+A,Normal,Home and lifestyle,6.4,559.68,4.761904762,27.984
+C,Normal,Home and lifestyle,7.9,37,4.761904762,1.85
+A,Normal,Sports and travel,6.5,15.34,4.761904762,0.767
+A,Member,Health and beauty,8.5,598.98,4.761904762,29.949
+A,Member,Health and beauty,9.1,190.68,4.761904762,9.534
+B,Normal,Health and beauty,7.6,333.4,4.761904762,16.67
+C,Member,Home and lifestyle,6.9,74.86,4.761904762,3.743
+C,Normal,Sports and travel,9.5,213.75,4.761904762,10.6875
+B,Normal,Food and beverages,5.2,339.57,4.761904762,16.9785
+A,Member,Home and lifestyle,4.2,664.16,4.761904762,33.208
+B,Member,Electronic accessories,7,403,4.761904762,20.15
+C,Normal,Electronic accessories,6,194.95,4.761904762,9.7475
+A,Member,Electronic accessories,4.7,62.48,4.761904762,3.124
+A,Member,Food and beverages,7.1,72.72,4.761904762,3.636
+B,Normal,Health and beauty,5.9,181.1,4.761904762,9.055
+C,Member,Electronic accessories,7.5,259.6,4.761904762,12.98
+C,Normal,Electronic accessories,6.4,115.36,4.761904762,5.768
+A,Member,Home and lifestyle,5.8,470.28,4.761904762,23.514
+A,Member,Home and lifestyle,4.5,240.04,4.761904762,12.002
+C,Member,Home and lifestyle,7.7,88.61,4.761904762,4.4305
+C,Normal,Fashion accessories,6.7,199.64,4.761904762,9.982
+B,Member,Health and beauty,4.7,39.01,4.761904762,1.9505
+C,Normal,Food and beverages,4.4,48.61,4.761904762,2.4305
+A,Normal,Electronic accessories,4.7,204.76,4.761904762,10.238
+B,Normal,Electronic accessories,8.6,119.68,4.761904762,5.984
+A,Member,Electronic accessories,4.3,505.4,4.761904762,25.27
+A,Normal,Sports and travel,9.6,281.61,4.761904762,14.0805
+A,Member,Home and lifestyle,4.1,710.32,4.761904762,35.516
+A,Member,Electronic accessories,4.7,79.44,4.761904762,3.972
+A,Normal,Fashion accessories,7.8,163.82,4.761904762,8.191
+B,Member,Sports and travel,5.5,479.58,4.761904762,23.979
+C,Member,Fashion accessories,9.7,138.66,4.761904762,6.933
+A,Member,Food and beverages,4.4,71.15,4.761904762,3.5575
+A,Member,Health and beauty,5,139.95,4.761904762,6.9975
+C,Member,Electronic accessories,4.4,781.3,4.761904762,39.065
+C,Member,Food and beverages,5.2,198.74,4.761904762,9.937
+C,Member,Food and beverages,7.3,63.24,4.761904762,3.162
+C,Member,Electronic accessories,4.9,373.95,4.761904762,18.6975
+C,Member,Health and beauty,8.1,207.69,4.761904762,10.3845
+C,Member,Health and beauty,8.4,176.28,4.761904762,8.814
+C,Normal,Food and beverages,5.5,206.37,4.761904762,10.3185
+C,Normal,Health and beauty,8.4,39.42,4.761904762,1.971
+A,Normal,Health and beauty,9.8,91.56,4.761904762,4.578
+A,Normal,Fashion accessories,6.7,308.85,4.761904762,15.4425
+A,Normal,Home and lifestyle,9.4,129.12,4.761904762,6.456
+B,Normal,Sports and travel,6.4,390.96,4.761904762,19.548
+A,Member,Food and beverages,5.4,498.9,4.761904762,24.945
+C,Member,Food and beverages,8.6,377.04,4.761904762,18.852
+B,Member,Health and beauty,4,204.52,4.761904762,10.226
+A,Member,Electronic accessories,7.6,145.44,4.761904762,7.272
+B,Normal,Home and lifestyle,6.8,198.18,4.761904762,9.909
+A,Normal,Food and beverages,9.1,98.7,4.761904762,4.935
+A,Normal,Fashion accessories,5.5,385.1,4.761904762,19.255
+A,Member,Food and beverages,7.9,46.96,4.761904762,2.348
+C,Member,Sports and travel,8.5,73.5,4.761904762,3.675
+A,Member,Electronic accessories,9.1,142.25,4.761904762,7.1125
+A,Normal,Fashion accessories,7.5,687.6,4.761904762,34.38
+B,Normal,Sports and travel,5.2,347.7,4.761904762,17.385
+C,Normal,Electronic accessories,9.5,142.95,4.761904762,7.1475
+B,Member,Food and beverages,8.9,385.38,4.761904762,19.269
+B,Member,Electronic accessories,7.8,144.27,4.761904762,7.2135
+B,Member,Health and beauty,8.9,391.79,4.761904762,19.5895
+B,Member,Health and beauty,7.7,538.3,4.761904762,26.915
+C,Normal,Food and beverages,9.3,485.15,4.761904762,24.2575
+A,Normal,Sports and travel,6.2,133.95,4.761904762,6.6975
+A,Normal,Fashion accessories,7.6,701.37,4.761904762,35.0685
+A,Member,Electronic accessories,7.3,71.95,4.761904762,3.5975
+C,Member,Home and lifestyle,4.7,714,4.761904762,35.7
+A,Normal,Electronic accessories,5.1,182.14,4.761904762,9.107
+B,Normal,Health and beauty,4.8,135,4.761904762,6.75
+C,Member,Fashion accessories,6.6,993,4.761904762,49.65
+A,Normal,Electronic accessories,5.5,361.83,4.761904762,18.0915
+B,Member,Fashion accessories,8.5,383.11,4.761904762,19.1555
+B,Member,Home and lifestyle,4.8,243,4.761904762,12.15
+C,Normal,Electronic accessories,8.4,30.24,4.761904762,1.512
+B,Member,Food and beverages,7.8,356.56,4.761904762,17.828
+C,Normal,Fashion accessories,9.3,375.5,4.761904762,18.775
+C,Normal,Sports and travel,5.2,954.4,4.761904762,47.72
+B,Normal,Electronic accessories,6.5,82.5,4.761904762,4.125
+B,Normal,Sports and travel,5.6,74.97,4.761904762,3.7485
+A,Member,Food and beverages,7.4,647.68,4.761904762,32.384
+C,Normal,Food and beverages,9.1,755.76,4.761904762,37.788
+C,Normal,Food and beverages,8,199.58,4.761904762,9.979
+A,Normal,Home and lifestyle,7.2,439.32,4.761904762,21.966
+C,Normal,Food and beverages,7.1,164.96,4.761904762,8.248
+C,Normal,Fashion accessories,9.1,326.72,4.761904762,16.336
+C,Normal,Electronic accessories,5.6,461.88,4.761904762,23.094
+A,Member,Home and lifestyle,6,263.76,4.761904762,13.188
+C,Normal,Sports and travel,5.4,143.6,4.761904762,7.18
+A,Member,Electronic accessories,7.8,193.5,4.761904762,9.675
+B,Member,Electronic accessories,9.9,183.82,4.761904762,9.191
+B,Normal,Fashion accessories,4.9,121.92,4.761904762,6.096
+C,Normal,Home and lifestyle,5.2,420.66,4.761904762,21.033
+C,Normal,Fashion accessories,8.9,252.48,4.761904762,12.624
+A,Normal,Home and lifestyle,9.1,335.45,4.761904762,16.7725
+A,Member,Fashion accessories,7,483.5,4.761904762,24.175
+B,Member,Home and lifestyle,9.6,318.42,4.761904762,15.921
+C,Normal,Sports and travel,8.7,668.43,4.761904762,33.4215
+C,Member,Fashion accessories,9.4,387.92,4.761904762,19.396
+B,Normal,Electronic accessories,4,94.6,4.761904762,4.73
+A,Member,Sports and travel,7.5,329.32,4.761904762,16.466
+C,Normal,Electronic accessories,4.2,53.22,4.761904762,2.661
+B,Normal,Food and beverages,9.9,498.45,4.761904762,24.9225
+C,Member,Food and beverages,4.2,299.56,4.761904762,14.978
+A,Normal,Food and beverages,9.9,204.7,4.761904762,10.235
+B,Member,Sports and travel,5.8,75.82,4.761904762,3.791
+C,Normal,Food and beverages,6,280.62,4.761904762,14.031
+A,Normal,Health and beauty,10,323.2,4.761904762,16.16
+C,Member,Fashion accessories,9.5,486.63,4.761904762,24.3315
+B,Normal,Food and beverages,6.6,127.54,4.761904762,6.377
+C,Member,Fashion accessories,8.1,241.44,4.761904762,12.072
+B,Normal,Fashion accessories,9.7,379.5,4.761904762,18.975
+A,Member,Electronic accessories,7.2,76.82,4.761904762,3.841
+A,Member,Sports and travel,6.2,522.6,4.761904762,26.13
+A,Normal,Health and beauty,7.3,79.74,4.761904762,3.987
+A,Normal,Health and beauty,4.3,387.5,4.761904762,19.375
+A,Normal,Food and beverages,4.6,271.35,4.761904762,13.5675
+B,Normal,Home and lifestyle,5.8,122.31,4.761904762,6.1155
+B,Member,Health and beauty,8.3,246.36,4.761904762,12.318
+B,Member,Electronic accessories,8,173.16,4.761904762,8.658
+C,Normal,Food and beverages,9.4,236.58,4.761904762,11.829
+C,Normal,Home and lifestyle,6.2,184.88,4.761904762,9.244
+C,Member,Home and lifestyle,9.8,13.98,4.761904762,0.699
+B,Normal,Fashion accessories,9.6,198.75,4.761904762,9.9375
+C,Member,Fashion accessories,4.9,684.53,4.761904762,34.2265
+A,Member,Sports and travel,8,269.04,4.761904762,13.452
+A,Normal,Food and beverages,7.8,68.95,4.761904762,3.4475
+B,Member,Fashion accessories,4.1,274.84,4.761904762,13.742
+A,Normal,Home and lifestyle,5.5,226.12,4.761904762,11.306
+C,Normal,Fashion accessories,5.4,119.1,4.761904762,5.955
+B,Normal,Health and beauty,5.1,342.1,4.761904762,17.105
+B,Normal,Sports and travel,6.9,43.74,4.761904762,2.187
+A,Member,Health and beauty,7.8,104.85,4.761904762,5.2425
+A,Normal,Sports and travel,6.6,77.52,4.761904762,3.876
+A,Normal,Home and lifestyle,9.2,407.44,4.761904762,20.372
+B,Normal,Health and beauty,7.8,96.11,4.761904762,4.8055
+C,Normal,Home and lifestyle,8.7,181.52,4.761904762,9.076
+C,Member,Health and beauty,9.2,81.51,4.761904762,4.0755
+B,Normal,Health and beauty,8.3,114.44,4.761904762,5.722
+A,Member,Electronic accessories,8.2,176.54,4.761904762,8.827
+C,Member,Food and beverages,7.5,115.8,4.761904762,5.79
+C,Normal,Electronic accessories,9.8,252.15,4.761904762,12.6075
+C,Member,Fashion accessories,8.7,972.1,4.761904762,48.605
+B,Member,Fashion accessories,6.7,203.36,4.761904762,10.168
+C,Normal,Fashion accessories,5,16.28,4.761904762,0.814
+B,Member,Fashion accessories,7,365.49,4.761904762,18.2745
+A,Member,Health and beauty,8.9,372.19,4.761904762,18.6095
+B,Member,Food and beverages,8,62.61,4.761904762,3.1305
+B,Normal,Sports and travel,6.9,336.35,4.761904762,16.8175
+A,Member,Home and lifestyle,7.3,906.5,4.761904762,45.325
+B,Normal,Fashion accessories,6.9,138.16,4.761904762,6.908
+C,Normal,Food and beverages,5.7,86.54,4.761904762,4.327
+A,Normal,Electronic accessories,6.4,140.76,4.761904762,7.038
+B,Normal,Fashion accessories,9.6,668.78,4.761904762,33.439
+B,Normal,Fashion accessories,6.8,47.44,4.761904762,2.372
+C,Normal,Sports and travel,9,893.16,4.761904762,44.658
+C,Member,Sports and travel,9.6,331.72,4.761904762,16.586
+A,Normal,Home and lifestyle,7.7,203.94,4.761904762,10.197
+C,Member,Food and beverages,7,68.16,4.761904762,3.408
+C,Normal,Electronic accessories,6.5,326.88,4.761904762,16.344
+C,Member,Food and beverages,8.1,87.2,4.761904762,4.36
+B,Member,Sports and travel,4.3,707.44,4.761904762,35.372
+A,Member,Home and lifestyle,6.5,802.89,4.761904762,40.1445
+C,Normal,Fashion accessories,9.5,12.78,4.761904762,0.639
+A,Normal,Sports and travel,9.7,133.7,4.761904762,6.685
+B,Member,Health and beauty,9.5,19.15,4.761904762,0.9575
+C,Member,Food and beverages,8.9,276.6,4.761904762,13.83
+C,Normal,Fashion accessories,6.5,137.22,4.761904762,6.861
+B,Member,Health and beauty,5.3,27.07,4.761904762,1.3535
+B,Member,Sports and travel,9.6,39.12,4.761904762,1.956
+B,Normal,Electronic accessories,6.7,448.26,4.761904762,22.413
+B,Normal,Electronic accessories,7.6,132.06,4.761904762,6.603
+A,Normal,Food and beverages,4.8,318.05,4.761904762,15.9025
+A,Normal,Health and beauty,5.5,25,4.761904762,1.25
+A,Member,Electronic accessories,4.7,83.08,4.761904762,4.154
+B,Member,Fashion accessories,6.9,147.8,4.761904762,7.39
+B,Member,Food and beverages,4.5,696.6,4.761904762,34.83
+B,Normal,Electronic accessories,6.2,793.9,4.761904762,39.695
+C,Member,Electronic accessories,7.6,465.7,4.761904762,23.285
+C,Normal,Food and beverages,7.9,35.89,4.761904762,1.7945
+C,Normal,Food and beverages,4.5,202.6,4.761904762,10.13
+B,Member,Food and beverages,8.7,730.5,4.761904762,36.525
+C,Normal,Sports and travel,6.1,295.8,4.761904762,14.79
+C,Member,Food and beverages,6.4,22.62,4.761904762,1.131
+A,Member,Food and beverages,9.1,256.7,4.761904762,12.835
+C,Member,Sports and travel,7.1,545.5,4.761904762,27.275
+C,Member,Health and beauty,7.7,260.05,4.761904762,13.0025
+B,Normal,Sports and travel,4.5,222.12,4.761904762,11.106
+C,Normal,Food and beverages,7.2,21.58,4.761904762,1.079
+C,Member,Electronic accessories,8.4,98.84,4.761904762,4.942
+C,Member,Home and lifestyle,5.4,502.62,4.761904762,25.131
+A,Member,Sports and travel,9.7,160.2,4.761904762,8.01
+A,Member,Fashion accessories,5.5,431.3,4.761904762,21.565
+B,Member,Health and beauty,4.6,580.56,4.761904762,29.028
+A,Member,Electronic accessories,6.6,322.2,4.761904762,16.11
+A,Normal,Health and beauty,6.3,195.54,4.761904762,9.777
+A,Normal,Sports and travel,4.2,166.3,4.761904762,8.315
+C,Normal,Electronic accessories,4.4,336.28,4.761904762,16.814
+B,Normal,Sports and travel,6.7,343.7,4.761904762,17.185
+A,Normal,Electronic accessories,6.7,38.6,4.761904762,1.93
+C,Normal,Food and beverages,8.4,527.76,4.761904762,26.388
+C,Normal,Electronic accessories,6.2,328,4.761904762,16.4
+A,Normal,Sports and travel,5,185.7,4.761904762,9.285
+B,Member,Home and lifestyle,6,603.8,4.761904762,30.19
+C,Member,Sports and travel,7,369.8,4.761904762,18.49
+B,Member,Sports and travel,6.6,197.96,4.761904762,9.898
+B,Normal,Fashion accessories,7.3,410.9,4.761904762,20.545
+A,Normal,Fashion accessories,8.3,148.6,4.761904762,7.43
+C,Normal,Home and lifestyle,4.3,22.96,4.761904762,1.148
+B,Member,Home and lifestyle,9.8,699.12,4.761904762,34.956
+B,Normal,Fashion accessories,8.2,69.4,4.761904762,3.47
+A,Member,Fashion accessories,7.2,196.6,4.761904762,9.83
+B,Member,Health and beauty,8.7,202.56,4.761904762,10.128
+C,Member,Home and lifestyle,8.4,121.2,4.761904762,6.06
+B,Normal,Fashion accessories,7.1,199.78,4.761904762,9.989
+B,Normal,Sports and travel,5.5,607.36,4.761904762,30.368
+C,Normal,Electronic accessories,8.5,126.44,4.761904762,6.322
+C,Normal,Food and beverages,6.2,541.44,4.761904762,27.072
+B,Member,Sports and travel,8.9,98.13,4.761904762,4.9065
+A,Member,Sports and travel,9.6,412.16,4.761904762,20.608
+B,Member,Sports and travel,5.4,73.97,4.761904762,3.6985
+C,Member,Fashion accessories,9.1,31.9,4.761904762,1.595
+C,Normal,Home and lifestyle,9,138.8,4.761904762,6.94
+B,Normal,Sports and travel,6.3,186.62,4.761904762,9.331
+B,Normal,Sports and travel,9.5,88.45,4.761904762,4.4225
+A,Member,Electronic accessories,9.8,193.44,4.761904762,9.672
+B,Member,Sports and travel,6.7,145.5,4.761904762,7.275
+B,Normal,Food and beverages,7.7,504.3,4.761904762,25.215
+B,Member,Health and beauty,7,306.45,4.761904762,15.3225
+C,Member,Home and lifestyle,5.1,95.7,4.761904762,4.785
+B,Member,Sports and travel,6.2,635.18,4.761904762,31.759
+A,Normal,Home and lifestyle,6.1,214.55,4.761904762,10.7275
+A,Normal,Fashion accessories,9.3,379.96,4.761904762,18.998
+A,Normal,Electronic accessories,7.6,696.85,4.761904762,34.8425
+C,Member,Sports and travel,8.2,408.73,4.761904762,20.4365
+C,Member,Fashion accessories,8.5,51.47,4.761904762,2.5735
+B,Member,Health and beauty,9.8,274.3,4.761904762,13.715
+C,Member,Home and lifestyle,8.7,196.95,4.761904762,9.8475
+A,Normal,Home and lifestyle,9.7,69.46,4.761904762,3.473
+C,Member,Sports and travel,4.3,359.6,4.761904762,17.98
+B,Normal,Electronic accessories,7.7,137.13,4.761904762,6.8565
+C,Member,Home and lifestyle,7.3,499.02,4.761904762,24.951
+A,Member,Home and lifestyle,5.9,224.64,4.761904762,11.232
+C,Normal,Health and beauty,5,125.74,4.761904762,6.287
+A,Normal,Food and beverages,8,490.26,4.761904762,24.513
+A,Member,Sports and travel,7.1,457.05,4.761904762,22.8525
+B,Normal,Fashion accessories,9,156.84,4.761904762,7.842
+B,Member,Fashion accessories,6.7,119.72,4.761904762,5.986
+B,Member,Food and beverages,6.1,543.6,4.761904762,27.18
+A,Normal,Sports and travel,9.3,882.81,4.761904762,44.1405
+A,Normal,Health and beauty,7,152.58,4.761904762,7.629
+A,Member,Fashion accessories,7.2,693.44,4.761904762,34.672
+B,Normal,Electronic accessories,8.2,229.5,4.761904762,11.475
+C,Normal,Food and beverages,8.4,146.79,4.761904762,7.3395
+A,Normal,Home and lifestyle,6.2,141.6,4.761904762,7.08
+C,Normal,Home and lifestyle,7.4,116.69,4.761904762,5.8345
+B,Member,Fashion accessories,5,73.96,4.761904762,3.698
+A,Normal,Home and lifestyle,6.9,97.94,4.761904762,4.897
+A,Normal,Fashion accessories,4.9,292.2,4.761904762,14.61
+C,Member,Food and beverages,5.1,524.88,4.761904762,26.244
+A,Normal,Home and lifestyle,9.1,92.04,4.761904762,4.602
+C,Member,Health and beauty,7.1,75.88,4.761904762,3.794
+B,Member,Sports and travel,5,80.72,4.761904762,4.036
+C,Member,Electronic accessories,5.5,112.62,4.761904762,5.631
+B,Normal,Food and beverages,9.2,71.2,4.761904762,3.56
+B,Member,Home and lifestyle,4.9,155.24,4.761904762,7.762
+A,Normal,Fashion accessories,8.9,294.2,4.761904762,14.71
+A,Normal,Sports and travel,6,548.55,4.761904762,27.4275
+B,Normal,Sports and travel,4.2,257.7,4.761904762,12.885
+A,Normal,Electronic accessories,7.3,396.36,4.761904762,19.818
+B,Normal,Fashion accessories,6.5,171.81,4.761904762,8.5905
+B,Normal,Fashion accessories,8.9,488.79,4.761904762,24.4395
+B,Normal,Health and beauty,9.7,524.16,4.761904762,26.208
+C,Normal,Electronic accessories,8.6,133.26,4.761904762,6.663
+A,Member,Electronic accessories,6.9,135.24,4.761904762,6.762
+B,Normal,Home and lifestyle,7.7,112.44,4.761904762,5.622
+B,Member,Fashion accessories,9.5,144.08,4.761904762,7.204
+C,Member,Food and beverages,4.5,985.2,4.761904762,49.26
+A,Member,Food and beverages,5.6,249.96,4.761904762,12.498
+A,Member,Home and lifestyle,8.2,217.26,4.761904762,10.863
+B,Normal,Electronic accessories,7.3,194.22,4.761904762,9.711
+C,Normal,Food and beverages,4.4,892,4.761904762,44.6
+B,Normal,Electronic accessories,5.7,339.36,4.761904762,16.968
+A,Member,Electronic accessories,5,447.06,4.761904762,22.353
+B,Normal,Fashion accessories,9,198.5,4.761904762,9.925
+A,Normal,Food and beverages,6.3,812.1,4.761904762,40.605
+C,Normal,Sports and travel,9.4,493.3,4.761904762,24.665
+A,Normal,Fashion accessories,7.7,591.66,4.761904762,29.583
+B,Normal,Fashion accessories,5.5,559.02,4.761904762,27.951
+C,Normal,Sports and travel,4.1,517.86,4.761904762,25.893
+B,Member,Home and lifestyle,7.6,410.2,4.761904762,20.51
+B,Member,Sports and travel,8.6,266.7,4.761904762,13.335
+A,Member,Food and beverages,8.3,70.91,4.761904762,3.5455
+B,Normal,Food and beverages,8.1,144.78,4.761904762,7.239
+A,Normal,Sports and travel,8.6,429.55,4.761904762,21.4775
+B,Member,Fashion accessories,6.3,569.17,4.761904762,28.4585
+B,Normal,Food and beverages,5.8,241.2,4.761904762,12.06
+C,Normal,Food and beverages,6.2,127.08,4.761904762,6.354
+A,Normal,Health and beauty,7.7,257.08,4.761904762,12.854
+B,Normal,Health and beauty,8.1,139.02,4.761904762,6.951
+C,Normal,Food and beverages,7.3,81.66,4.761904762,4.083
+A,Member,Health and beauty,8.4,310.72,4.761904762,15.536
+C,Member,Fashion accessories,8,185.96,4.761904762,9.298
+B,Member,Fashion accessories,9.5,72.32,4.761904762,3.616
+B,Normal,Sports and travel,7,189.18,4.761904762,9.459
+A,Normal,Health and beauty,9.8,206.84,4.761904762,10.342
+A,Normal,Food and beverages,9.2,157.02,4.761904762,7.851
+A,Normal,Sports and travel,7.7,215.3,4.761904762,10.765
+C,Normal,Fashion accessories,5.3,596.1,4.761904762,29.805
+A,Normal,Health and beauty,4.4,73.1,4.761904762,3.655
+C,Member,Health and beauty,4.3,279.18,4.761904762,13.959
+C,Member,Home and lifestyle,9.4,169.68,4.761904762,8.484
+A,Member,Sports and travel,9.8,45.58,4.761904762,2.279
+A,Member,Sports and travel,4.8,225.6,4.761904762,11.28
+B,Member,Sports and travel,5.3,290.4,4.761904762,14.52
+B,Normal,Health and beauty,8.7,44.46,4.761904762,2.223
+A,Normal,Food and beverages,9.5,156.6,4.761904762,7.83
+C,Normal,Sports and travel,5.3,419.94,4.761904762,20.997
+C,Normal,Fashion accessories,9.2,184.25,4.761904762,9.2125
+A,Member,Home and lifestyle,9.6,140.64,4.761904762,7.032
+C,Normal,Electronic accessories,6.4,83.08,4.761904762,4.154
+C,Normal,Fashion accessories,4.5,64.99,4.761904762,3.2495
+C,Normal,Food and beverages,6.9,775.6,4.761904762,38.78
+B,Normal,Sports and travel,7.8,327.06,4.761904762,16.353
+C,Member,Fashion accessories,4.5,363.23,4.761904762,18.1615
+B,Normal,Home and lifestyle,8.6,127,4.761904762,6.35
+A,Member,Fashion accessories,5.2,375.55,4.761904762,18.7775
+C,Member,Food and beverages,6.4,199.16,4.761904762,9.958
+A,Normal,Fashion accessories,5.2,30.61,4.761904762,1.5305
+B,Member,Food and beverages,8.9,115.78,4.761904762,5.789
+A,Normal,Electronic accessories,6.2,28.96,4.761904762,1.448
+C,Member,Food and beverages,6.7,890.73,4.761904762,44.5365
+B,Member,Fashion accessories,7.2,279.66,4.761904762,13.983
+C,Member,Sports and travel,9,80.93,4.761904762,4.0465
+A,Member,Food and beverages,4.2,674.5,4.761904762,33.725
+A,Member,Sports and travel,4.2,348.48,4.761904762,17.424
+B,Member,Sports and travel,6.9,435.6,4.761904762,21.78
+C,Member,Electronic accessories,4.4,439.55,4.761904762,21.9775
+A,Member,Food and beverages,4,591.18,4.761904762,29.559
+C,Member,Fashion accessories,8.5,260.76,4.761904762,13.038
+A,Normal,Food and beverages,9.2,215.04,4.761904762,10.752
+A,Member,Food and beverages,9.8,91.61,4.761904762,4.5805
+B,Member,Home and lifestyle,4.9,662.13,4.761904762,33.1065
+B,Normal,Fashion accessories,4.4,832.5,4.761904762,41.625
+B,Member,Fashion accessories,6.8,91.35,4.761904762,4.5675
+B,Member,Food and beverages,9.1,157.76,4.761904762,7.888
+A,Normal,Sports and travel,8.7,121.74,4.761904762,6.087
+B,Member,Health and beauty,5,825.8,4.761904762,41.29
+A,Member,Home and lifestyle,7.5,159.9,4.761904762,7.995
+A,Normal,Fashion accessories,8.2,12.09,4.761904762,0.6045
+A,Normal,Sports and travel,6.7,641.9,4.761904762,32.095
+A,Normal,Electronic accessories,5.4,234.93,4.761904762,11.7465
+A,Member,Food and beverages,7,167.54,4.761904762,8.377
+B,Normal,Home and lifestyle,4.7,299.1,4.761904762,14.955
+B,Member,Food and beverages,5,239.73,4.761904762,11.9865
+B,Member,Health and beauty,5,664.7,4.761904762,33.235
+A,Normal,Health and beauty,6,202.65,4.761904762,10.1325
+C,Normal,Electronic accessories,6.3,46.2,4.761904762,2.31
+B,Member,Food and beverages,8.5,88.15,4.761904762,4.4075
+B,Normal,Fashion accessories,7.5,157.26,4.761904762,7.863
+B,Member,Food and beverages,6.4,296.37,4.761904762,14.8185
+C,Member,Electronic accessories,4.7,708.4,4.761904762,35.42
+B,Member,Electronic accessories,6,111.34,4.761904762,5.567
+C,Member,Food and beverages,4,580.16,4.761904762,29.008
+C,Member,Electronic accessories,5.5,60.25,4.761904762,3.0125
+A,Member,Home and lifestyle,8.7,174.24,4.761904762,8.712
+C,Normal,Health and beauty,7.4,421.26,4.761904762,21.063
+B,Member,Fashion accessories,5.6,33.63,4.761904762,1.6815
+C,Member,Sports and travel,6.3,30.98,4.761904762,1.549
+C,Normal,Electronic accessories,7.1,247.4,4.761904762,12.37
+B,Normal,Electronic accessories,7.8,378.3,4.761904762,18.915
+B,Normal,Health and beauty,9.9,334.86,4.761904762,16.743
+A,Member,Home and lifestyle,7.3,727.8,4.761904762,36.39
+B,Member,Sports and travel,5.1,335.88,4.761904762,16.794
+B,Member,Fashion accessories,9.4,240.72,4.761904762,12.036
+A,Normal,Electronic accessories,5.8,47.07,4.761904762,2.3535
+C,Normal,Electronic accessories,8,99.69,4.761904762,4.9845
+A,Member,Fashion accessories,7.9,264.45,4.761904762,13.2225
+A,Member,Sports and travel,5.9,139.65,4.761904762,6.9825
+A,Member,Fashion accessories,4.9,55.45,4.761904762,2.7725
+B,Normal,Sports and travel,9.3,128.91,4.761904762,6.4455
+C,Member,Sports and travel,7.9,119.98,4.761904762,5.999
+B,Member,Fashion accessories,5.9,352.5,4.761904762,17.625
+C,Member,Food and beverages,9.9,871,4.761904762,43.55
+C,Normal,Sports and travel,7.7,197.6,4.761904762,9.88
+A,Normal,Fashion accessories,7.6,194.52,4.761904762,9.726
+B,Member,Food and beverages,7.7,173.22,4.761904762,8.661
+B,Normal,Health and beauty,6.4,71.88,4.761904762,3.594
+C,Member,Health and beauty,4.4,286.26,4.761904762,14.313
+B,Normal,Sports and travel,4.1,81.24,4.761904762,4.062
+A,Member,Fashion accessories,4.4,560.4,4.761904762,28.02
+B,Member,Food and beverages,5.5,186.8,4.761904762,9.34
+B,Normal,Health and beauty,4,220.23,4.761904762,11.0115
+C,Normal,Health and beauty,9.3,269.12,4.761904762,13.456
+A,Normal,Electronic accessories,4.8,454.8,4.761904762,22.74
+B,Member,Fashion accessories,4.6,167.54,4.761904762,8.377
+B,Member,Sports and travel,7.3,448.56,4.761904762,22.428
+A,Member,Food and beverages,6,293.88,4.761904762,14.694
+C,Normal,Health and beauty,8.1,589.5,4.761904762,29.475
+A,Member,Food and beverages,9.4,291,4.761904762,14.55
+B,Member,Electronic accessories,6.5,39.48,4.761904762,1.974
+B,Normal,Sports and travel,7,34.81,4.761904762,1.7405
+C,Normal,Fashion accessories,7.1,295.92,4.761904762,14.796
+A,Member,Fashion accessories,6.6,42.96,4.761904762,2.148
+B,Member,Sports and travel,4.9,138.48,4.761904762,6.924
+B,Member,Home and lifestyle,6.4,98.2,4.761904762,4.91
+B,Member,Sports and travel,8,129.66,4.761904762,6.483
+A,Member,Home and lifestyle,4.3,635.6,4.761904762,31.78
+C,Member,Sports and travel,6.1,145.76,4.761904762,7.288
+A,Normal,Food and beverages,7.5,201.3,4.761904762,10.065
+C,Member,Sports and travel,6.7,631.71,4.761904762,31.5855
+C,Member,Food and beverages,5.2,385.28,4.761904762,19.264
+A,Member,Health and beauty,8.8,486.3,4.761904762,24.315
+C,Member,Fashion accessories,9.5,513.66,4.761904762,25.683
+C,Normal,Food and beverages,7.6,473.4,4.761904762,23.67
+A,Member,Home and lifestyle,6.6,436.85,4.761904762,21.8425
+A,Member,Sports and travel,6.9,108.16,4.761904762,5.408
+B,Normal,Home and lifestyle,4.3,248.76,4.761904762,12.438
+A,Member,Electronic accessories,7.8,626.22,4.761904762,31.311
+C,Normal,Home and lifestyle,8,975,4.761904762,48.75
+C,Normal,Fashion accessories,9.6,483.28,4.761904762,24.164
+B,Normal,Food and beverages,4.3,96.96,4.761904762,4.848
+B,Member,Fashion accessories,5,197.7,4.761904762,9.885
+B,Member,Health and beauty,9.2,724.23,4.761904762,36.2115
+B,Member,Home and lifestyle,6.3,795.51,4.761904762,39.7755
+B,Normal,Health and beauty,8.9,502.39,4.761904762,25.1195
+B,Normal,Electronic accessories,7.6,172,4.761904762,8.6
+C,Member,Food and beverages,4.8,68.98,4.761904762,3.449
+C,Normal,Fashion accessories,9.1,124.96,4.761904762,6.248
+A,Normal,Sports and travel,6.1,77.1,4.761904762,3.855
+A,Member,Food and beverages,9.1,483.72,4.761904762,24.186
+C,Member,Home and lifestyle,8.3,302.12,4.761904762,15.106
+C,Normal,Electronic accessories,7.2,698.67,4.761904762,34.9335
+C,Normal,Health and beauty,6,124.65,4.761904762,6.2325
+C,Member,Fashion accessories,8.5,789.6,4.761904762,39.48
+A,Normal,Health and beauty,6.6,178.4,4.761904762,8.92
+A,Member,Fashion accessories,4.5,500.22,4.761904762,25.011
+A,Member,Electronic accessories,8.1,35.82,4.761904762,1.791
+A,Normal,Fashion accessories,7.2,136.14,4.761904762,6.807
+B,Member,Fashion accessories,6.1,104.88,4.761904762,5.244
+B,Normal,Fashion accessories,7.1,178.92,4.761904762,8.946
+C,Member,Sports and travel,5.1,815.67,4.761904762,40.7835
+B,Normal,Home and lifestyle,7.9,132.36,4.761904762,6.618
+C,Member,Food and beverages,7.4,257.39,4.761904762,12.8695
+B,Member,Food and beverages,7.4,93.36,4.761904762,4.668
+C,Member,Health and beauty,6.6,228,4.761904762,11.4
+C,Member,Home and lifestyle,5.9,166.71,4.761904762,8.3355
+B,Normal,Sports and travel,8.9,697.4,4.761904762,34.87
+C,Normal,Fashion accessories,6.8,389.04,4.761904762,19.452
+B,Member,Home and lifestyle,9.3,365.26,4.761904762,18.263
+A,Member,Fashion accessories,4.4,89.28,4.761904762,4.464
+A,Normal,Health and beauty,4.8,168,4.761904762,8.4
+A,Member,Fashion accessories,9.5,19.7,4.761904762,0.985
+B,Normal,Electronic accessories,8.9,531.16,4.761904762,26.558
+B,Member,Food and beverages,6.4,53.72,4.761904762,2.686
+C,Member,Health and beauty,6,819.5,4.761904762,40.975
+C,Member,Home and lifestyle,8.1,568.4,4.761904762,28.42
+C,Normal,Electronic accessories,9,587.6,4.761904762,29.38
+B,Member,Electronic accessories,6,732.48,4.761904762,36.624
+A,Normal,Home and lifestyle,9.8,845.64,4.761904762,42.282
+C,Normal,Home and lifestyle,8.5,389.27,4.761904762,19.4635
+C,Normal,Food and beverages,8.8,84.83,4.761904762,4.2415
+A,Member,Sports and travel,8.8,143.26,4.761904762,7.163
+A,Member,Home and lifestyle,9.5,75.38,4.761904762,3.769
+C,Member,Sports and travel,5.6,253.36,4.761904762,12.668
+C,Member,Food and beverages,8.6,38.42,4.761904762,1.921
+B,Member,Fashion accessories,5.2,652.3,4.761904762,32.615
+C,Member,Home and lifestyle,5.8,52.65,4.761904762,2.6325
+B,Member,Home and lifestyle,8,110.61,4.761904762,5.5305
+C,Member,Health and beauty,9,568.61,4.761904762,28.4305
+B,Member,Fashion accessories,4.1,89.28,4.761904762,4.464
+A,Normal,Food and beverages,8.6,136.4,4.761904762,6.82
+A,Member,Electronic accessories,7,174.2,4.761904762,8.71
+B,Normal,Home and lifestyle,8.4,366.4,4.761904762,18.32
+C,Member,Fashion accessories,7.4,254.61,4.761904762,12.7305
+A,Normal,Fashion accessories,6.2,778.32,4.761904762,38.916
+B,Member,Electronic accessories,4.9,285.92,4.761904762,14.296
+A,Normal,Home and lifestyle,4.5,579.12,4.761904762,28.956
+A,Member,Food and beverages,5.6,188.5,4.761904762,9.425
+A,Normal,Food and beverages,8,221.56,4.761904762,11.078
+B,Member,Food and beverages,5.6,772,4.761904762,38.6
+B,Normal,Electronic accessories,4.2,721.3,4.761904762,36.065
+A,Member,Fashion accessories,9.9,511.04,4.761904762,25.552
+A,Member,Health and beauty,7.6,53.45,4.761904762,2.6725
+A,Member,Health and beauty,6.6,222,4.761904762,11.1
+B,Normal,Home and lifestyle,4.7,763.68,4.761904762,38.184
+C,Normal,Fashion accessories,9.8,228.18,4.761904762,11.409
+B,Normal,Sports and travel,6.3,82.14,4.761904762,4.107
+B,Normal,Electronic accessories,7.9,382.56,4.761904762,19.128
+A,Normal,Home and lifestyle,7.7,68.58,4.761904762,3.429
+B,Member,Sports and travel,4.5,382.16,4.761904762,19.108
+C,Member,Health and beauty,8,601.09,4.761904762,30.0545
+C,Member,Sports and travel,5.7,475.93,4.761904762,23.7965
+C,Normal,Food and beverages,6.3,52.42,4.761904762,2.621
+C,Member,Food and beverages,6,131.3,4.761904762,6.565
+B,Normal,Food and beverages,8,144.3,4.761904762,7.215
+C,Member,Health and beauty,4.2,457.17,4.761904762,22.8585
+B,Normal,Sports and travel,9.6,93.38,4.761904762,4.669
+C,Member,Sports and travel,6.1,126.25,4.761904762,6.3125
+B,Member,Electronic accessories,5.6,790.83,4.761904762,39.5415
+C,Normal,Health and beauty,8.3,174.4,4.761904762,8.72
+A,Normal,Sports and travel,7.8,379.04,4.761904762,18.952
+A,Member,Fashion accessories,4.1,30.62,4.761904762,1.531
+C,Normal,Home and lifestyle,8.8,352.08,4.761904762,17.604
+C,Member,Health and beauty,4.1,50.8,4.761904762,2.54
+A,Normal,Electronic accessories,9,522.06,4.761904762,26.103
+C,Normal,Electronic accessories,5.5,575.12,4.761904762,28.756
+C,Normal,Health and beauty,9.3,54.95,4.761904762,2.7475
+C,Member,Health and beauty,5.6,181.41,4.761904762,9.0705
+A,Normal,Sports and travel,9.7,412.37,4.761904762,20.6185
+A,Normal,Fashion accessories,4,46.41,4.761904762,2.3205
+C,Member,Health and beauty,9.2,274.2,4.761904762,13.71
+B,Normal,Home and lifestyle,4.9,973.7,4.761904762,48.685
+A,Member,Electronic accessories,9.3,648.2,4.761904762,32.41
+A,Normal,Electronic accessories,6.6,93.22,4.761904762,4.661
+B,Normal,Fashion accessories,4.3,54.36,4.761904762,2.718
+C,Member,Home and lifestyle,5.5,60.87,4.761904762,3.0435
+A,Member,Sports and travel,8.1,244.9,4.761904762,12.245
+B,Normal,Health and beauty,9.8,92.78,4.761904762,4.639
+C,Member,Home and lifestyle,9.4,433.45,4.761904762,21.6725
+B,Normal,Sports and travel,7.9,138.06,4.761904762,6.903
+C,Member,Electronic accessories,5.1,241.6,4.761904762,12.08
+C,Member,Fashion accessories,6.9,471.73,4.761904762,23.5865
+A,Member,Fashion accessories,8,440.64,4.761904762,22.032
+B,Member,Electronic accessories,8,680.31,4.761904762,34.0155
+A,Normal,Home and lifestyle,4.2,309.88,4.761904762,15.494
+A,Normal,Sports and travel,8.5,186.36,4.761904762,9.318
+A,Normal,Electronic accessories,9,200.92,4.761904762,10.046
+B,Normal,Health and beauty,8.6,17.75,4.761904762,0.8875
+C,Normal,Fashion accessories,6,621.8,4.761904762,31.09
+B,Normal,Health and beauty,6.2,86,4.761904762,4.3
+A,Normal,Electronic accessories,5,402.6,4.761904762,20.13
+C,Member,Sports and travel,6.5,324.85,4.761904762,16.2425
+A,Normal,Electronic accessories,6,95.15,4.761904762,4.7575
+A,Member,Electronic accessories,5,388.96,4.761904762,19.448
+B,Normal,Food and beverages,5,425.68,4.761904762,21.284
+C,Normal,Fashion accessories,9.2,318.08,4.761904762,15.904
+A,Normal,Food and beverages,9.6,271.04,4.761904762,13.552
+B,Member,Health and beauty,8.4,384.64,4.761904762,19.232
+B,Member,Food and beverages,6,235.8,4.761904762,11.79
+B,Normal,Electronic accessories,6.7,211.56,4.761904762,10.578
+A,Member,Home and lifestyle,4.1,95.36,4.761904762,4.768
+C,Member,Sports and travel,5.9,10.17,4.761904762,0.5085
+A,Normal,Health and beauty,8.7,206.13,4.761904762,10.3065
+B,Member,Sports and travel,4.5,420.56,4.761904762,21.028
+A,Member,Sports and travel,6.6,88.04,4.761904762,4.402
+B,Member,Health and beauty,7.7,648.99,4.761904762,32.4495
+A,Member,Fashion accessories,8.5,123.84,4.761904762,6.192
+C,Normal,Electronic accessories,5.2,649.5,4.761904762,32.475
+A,Member,Electronic accessories,4.3,742.2,4.761904762,37.11
+A,Normal,Electronic accessories,7.6,84.48,4.761904762,4.224
+B,Normal,Health and beauty,9.5,250.28,4.761904762,12.514
+B,Member,Sports and travel,4.1,94.8,4.761904762,4.74
+A,Member,Health and beauty,9.2,91.3,4.761904762,4.565
+B,Member,Home and lifestyle,5.4,285.11,4.761904762,14.2555
+A,Normal,Fashion accessories,5.8,52.38,4.761904762,2.619
+A,Member,Fashion accessories,5.6,192.7,4.761904762,9.635
+B,Normal,Sports and travel,5.1,267.78,4.761904762,13.389
+C,Normal,Electronic accessories,5.8,558.7,4.761904762,27.935
+C,Member,Sports and travel,5,175.32,4.761904762,8.766
+A,Normal,Fashion accessories,7.9,155.82,4.761904762,7.791
+B,Normal,Electronic accessories,6,60.3,4.761904762,3.015
+A,Member,Sports and travel,5,78.94,4.761904762,3.947
+C,Member,Food and beverages,8.9,29.74,4.761904762,1.487
+A,Normal,Fashion accessories,5.9,21.32,4.761904762,1.066
+A,Member,Electronic accessories,5.9,281.34,4.761904762,14.067
+A,Member,Electronic accessories,9.7,73.26,4.761904762,3.663
+C,Normal,Sports and travel,8.6,22.38,4.761904762,1.119
+C,Member,Food and beverages,4,655.92,4.761904762,32.796
+A,Normal,Fashion accessories,4.2,594.6,4.761904762,29.73
+A,Normal,Fashion accessories,9.2,74.1,4.761904762,3.705
+A,Normal,Fashion accessories,9.2,196.96,4.761904762,9.848
+C,Normal,Health and beauty,5,372.33,4.761904762,18.6165
+B,Normal,Electronic accessories,10,527.9,4.761904762,26.395
+A,Member,Health and beauty,8.8,479.75,4.761904762,23.9875
+B,Normal,Fashion accessories,4.2,328.59,4.761904762,16.4295
+B,Normal,Food and beverages,6.3,168.96,4.761904762,8.448
+A,Member,Home and lifestyle,8.2,113.24,4.761904762,5.662
+B,Normal,Health and beauty,5.1,345.54,4.761904762,17.277
+A,Member,Food and beverages,5,428.67,4.761904762,21.4335
+C,Member,Home and lifestyle,7,86.27,4.761904762,4.3135
+A,Member,Sports and travel,7.8,25.52,4.761904762,1.276
+B,Normal,Home and lifestyle,4.3,101.52,4.761904762,5.076
+B,Normal,Home and lifestyle,7,357.49,4.761904762,17.8745
+A,Member,Electronic accessories,6.6,238.77,4.761904762,11.9385
+C,Member,Health and beauty,7.3,101.43,4.761904762,5.0715
+B,Member,Sports and travel,6.5,724.24,4.761904762,36.212
+C,Member,Health and beauty,4.9,125.64,4.761904762,6.282
+C,Member,Food and beverages,4.3,72.93,4.761904762,3.6465
+A,Normal,Sports and travel,9.3,258.36,4.761904762,12.918
+A,Member,Food and beverages,7.1,173.74,4.761904762,8.687
+C,Normal,Fashion accessories,9.6,56.5,4.761904762,2.825
+B,Member,Electronic accessories,6.2,214.3,4.761904762,10.715
+A,Member,Sports and travel,9.9,534.36,4.761904762,26.718
+A,Member,Home and lifestyle,5.9,93.16,4.761904762,4.658
+C,Normal,Home and lifestyle,6.3,522.08,4.761904762,26.104
+C,Member,Fashion accessories,4,52.35,4.761904762,2.6175
+B,Member,Electronic accessories,6.1,39.75,4.761904762,1.9875
+A,Normal,Electronic accessories,4.5,720.16,4.761904762,36.008
+B,Member,Electronic accessories,8.6,96.8,4.761904762,4.84
+B,Member,Food and beverages,6,332.1,4.761904762,16.605
+C,Member,Fashion accessories,9.5,81.44,4.761904762,4.072
+B,Member,Sports and travel,9.9,319.9,4.761904762,15.995
+A,Member,Home and lifestyle,7.5,206.52,4.761904762,10.326
+A,Member,Food and beverages,7.6,166.68,4.761904762,8.334
+A,Normal,Sports and travel,5,319.06,4.761904762,15.953
+A,Member,Food and beverages,6.7,87.9,4.761904762,4.395
+A,Member,Electronic accessories,9.5,734.7,4.761904762,36.735
+C,Normal,Fashion accessories,6.8,97.52,4.761904762,4.876
+A,Member,Sports and travel,5.6,769.2,4.761904762,38.46
+C,Normal,Health and beauty,7.2,418.3,4.761904762,20.915
+B,Normal,Electronic accessories,8.1,463.28,4.761904762,23.164
+C,Member,Fashion accessories,8.6,462.45,4.761904762,23.1225
+B,Normal,Electronic accessories,9.4,141.9,4.761904762,7.095
+B,Member,Electronic accessories,8.9,302.7,4.761904762,15.135
+B,Normal,Health and beauty,4.2,793.28,4.761904762,39.664
+C,Normal,Fashion accessories,5,425.18,4.761904762,21.259
+C,Member,Food and beverages,8.8,283.62,4.761904762,14.181
+C,Member,Health and beauty,5.3,599.2,4.761904762,29.96
+A,Member,Food and beverages,4.6,315.36,4.761904762,15.768
+C,Member,Electronic accessories,7.5,403.56,4.761904762,20.178
+B,Normal,Home and lifestyle,5.1,183.88,4.761904762,9.194
+A,Member,Health and beauty,4.2,138.65,4.761904762,6.9325
+A,Normal,Food and beverages,8.1,80.71,4.761904762,4.0355
+C,Normal,Health and beauty,6,116.64,4.761904762,5.832
+C,Member,Home and lifestyle,7.9,313.52,4.761904762,15.676
+C,Normal,Health and beauty,8.8,846.1,4.761904762,42.305
+B,Normal,Health and beauty,6.6,414.4,4.761904762,20.72
+A,Member,Food and beverages,6.2,159.08,4.761904762,7.954
+B,Normal,Home and lifestyle,4.2,490.1,4.761904762,24.505
+B,Member,Food and beverages,7.3,87.45,4.761904762,4.3725
+C,Normal,Electronic accessories,8.6,224.52,4.761904762,11.226
+A,Normal,Home and lifestyle,6.8,744.96,4.761904762,37.248
+A,Member,Fashion accessories,7.6,410.72,4.761904762,20.536
+A,Member,Food and beverages,5.8,298.8,4.761904762,14.94
+C,Normal,Electronic accessories,4.1,212.94,4.761904762,10.647
+C,Member,Sports and travel,9.3,42.85,4.761904762,2.1425
+A,Normal,Fashion accessories,6.8,378.68,4.761904762,18.934
+B,Normal,Home and lifestyle,8.7,206.91,4.761904762,10.3455
+B,Member,Electronic accessories,6.3,78.78,4.761904762,3.939
+C,Member,Home and lifestyle,5.1,322.11,4.761904762,16.1055
+B,Normal,Home and lifestyle,7,98.22,4.761904762,4.911
+C,Member,Home and lifestyle,5.2,25.46,4.761904762,1.273
+C,Normal,Sports and travel,6.6,581.98,4.761904762,29.099
+C,Member,Sports and travel,6.5,211.32,4.761904762,10.566
+B,Normal,Electronic accessories,9,55.12,4.761904762,2.756
+B,Member,Sports and travel,5.2,88.31,4.761904762,4.4155
+A,Member,Health and beauty,6.8,356.58,4.761904762,17.829
+B,Normal,Electronic accessories,7.6,794.25,4.761904762,39.7125
+B,Normal,Sports and travel,7.2,50.62,4.761904762,2.531
+B,Normal,Home and lifestyle,7.1,599.52,4.761904762,29.976
+C,Member,Fashion accessories,9.5,166.7,4.761904762,8.335
+A,Normal,Food and beverages,5.1,744.4,4.761904762,37.22
+C,Normal,Health and beauty,7.6,448.56,4.761904762,22.428
+B,Normal,Home and lifestyle,9.8,378.9,4.761904762,18.945
+C,Member,Home and lifestyle,5.1,257.16,4.761904762,12.858
+C,Normal,Health and beauty,7.5,552.23,4.761904762,27.6115
+A,Normal,Sports and travel,7.4,447.4,4.761904762,22.37
+A,Member,Health and beauty,4.2,276.27,4.761904762,13.8135
+C,Normal,Food and beverages,5.9,343.74,4.761904762,17.187
+A,Normal,Food and beverages,6.9,266.08,4.761904762,13.304
+C,Member,Fashion accessories,6.6,898.38,4.761904762,44.919
+A,Normal,Home and lifestyle,5.7,456.8,4.761904762,22.84
+A,Normal,Health and beauty,5.3,253.95,4.761904762,12.6975
+A,Member,Health and beauty,4.2,70.56,4.761904762,3.528
+A,Normal,Electronic accessories,7.3,657.16,4.761904762,32.858
+C,Member,Electronic accessories,5.3,168.5,4.761904762,8.425
+B,Member,Fashion accessories,4.7,53.78,4.761904762,2.689
+C,Member,Home and lifestyle,7.9,179.05,4.761904762,8.9525
+B,Normal,Food and beverages,8.9,211.44,4.761904762,10.572
+B,Member,Health and beauty,9.3,119.73,4.761904762,5.9865
+B,Member,Home and lifestyle,4.7,65.7,4.761904762,3.285
+B,Member,Food and beverages,8.7,251.4,4.761904762,12.57
+C,Member,Food and beverages,7.6,84.16,4.761904762,4.208
+B,Member,Home and lifestyle,5.7,395.46,4.761904762,19.773
+A,Normal,Fashion accessories,6.8,297.99,4.761904762,14.8995
+C,Member,Food and beverages,5.4,454.41,4.761904762,22.7205
+B,Normal,Electronic accessories,7.1,276.12,4.761904762,13.806
+C,Normal,Home and lifestyle,7.8,158,4.761904762,7.9
+A,Member,Food and beverages,8.4,887.94,4.761904762,44.397
+C,Member,Fashion accessories,9.8,91.98,4.761904762,4.599
+A,Member,Electronic accessories,9.8,41.78,4.761904762,2.089
+A,Normal,Fashion accessories,7.4,15.5,4.761904762,0.775
+C,Member,Electronic accessories,6.7,290.46,4.761904762,14.523
+B,Normal,Food and beverages,6.4,66.66,4.761904762,3.333
+B,Normal,Electronic accessories,5.8,76.54,4.761904762,3.827
+A,Normal,Home and lifestyle,7.2,299.7,4.761904762,14.985
+A,Member,Home and lifestyle,9.3,243.03,4.761904762,12.1515
+A,Normal,Health and beauty,9.5,47.4,4.761904762,2.37
+B,Member,Electronic accessories,9,172.45,4.761904762,8.6225
+B,Member,Food and beverages,9,846.3,4.761904762,42.315
+B,Member,Home and lifestyle,6.7,258.37,4.761904762,12.9185
+B,Normal,Electronic accessories,5.5,609.56,4.761904762,30.478
+A,Normal,Home and lifestyle,5.4,240.24,4.761904762,12.012
+C,Normal,Fashion accessories,8.2,172.26,4.761904762,8.613
+B,Member,Fashion accessories,7,99.84,4.761904762,4.992
+A,Normal,Food and beverages,8.5,298.64,4.761904762,14.932
+B,Member,Food and beverages,4.9,159.6,4.761904762,7.98
+B,Normal,Electronic accessories,5.1,25.45,4.761904762,1.2725
+B,Normal,Food and beverages,6.5,67.77,4.761904762,3.3885
+C,Member,Food and beverages,9.8,238.36,4.761904762,11.918
+A,Normal,Health and beauty,8.4,232.6,4.761904762,11.63
+A,Member,Sports and travel,7.4,877.32,4.761904762,43.866
+C,Normal,Health and beauty,6.1,699.72,4.761904762,34.986
+C,Normal,Electronic accessories,6,674.59,4.761904762,33.7295
+B,Normal,Fashion accessories,8.5,318.55,4.761904762,15.9275
+B,Normal,Health and beauty,4.3,29.52,4.761904762,1.476
+B,Member,Health and beauty,6.2,496,4.761904762,24.8
+C,Member,Electronic accessories,4.3,823.4,4.761904762,41.17
+B,Member,Health and beauty,8.4,602.96,4.761904762,30.148
+A,Normal,Food and beverages,4.5,282.8,4.761904762,14.14
+B,Normal,Sports and travel,6,766,4.761904762,38.3
+A,Normal,Electronic accessories,8.8,116.06,4.761904762,5.803
+B,Normal,Fashion accessories,6.6,174.9,4.761904762,8.745
+C,Member,Electronic accessories,5.9,60.95,4.761904762,3.0475
+C,Normal,Health and beauty,6.2,40.35,4.761904762,2.0175
+B,Normal,Home and lifestyle,4.4,973.8,4.761904762,48.69
+A,Member,Food and beverages,7.7,31.84,4.761904762,1.592
+A,Normal,Home and lifestyle,4.1,65.82,4.761904762,3.291
+A,Member,Fashion accessories,6.6,618.38,4.761904762,30.919
